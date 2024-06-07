@@ -17,6 +17,7 @@ Unfortunately, the robot doesn’t hold up for much afterward, he falls to his d
 leaving the other robot all alone, later, it is shown that there is a battery behind one 
 of the rocks after all and so teaches us to never leave a stone unturned as it might cost us 
 our life.
-# App demo
-Due to the github size restrictions,
+# App demo and Assets
+Due to the GitHub size restrictions,
 [here is the film uploaded on google drive](https://drive.google.com/file/d/1rrsCkTc1Lc8kQJNAC6ySDw7p_u21CEkr/view?usp=drive_link)
+Unfortunately, the sizes of the blender files are extremely large so it can't be uploaded.
