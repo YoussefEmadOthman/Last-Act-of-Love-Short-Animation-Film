@@ -11,13 +11,13 @@ her battery has been depleted, so he decides to go looking for a battery in hope
 finding one, despite his search, he fails to find another, left with no alternative, he decides 
 to replenish the robot's power using his battery and despite nearly draining his own 
 the power source in the process, the act fills his (hypothetical) heart with immense joy. Eve 
-wakes up and they stroll together in the city, and they share some quality time together, 
+wakes up and they stroll together in the city, and they share some quality time, 
 later KIPP starts showing symptoms of tiredness, but Eve doesn’t realize that. 
 Unfortunately, the robot doesn’t hold up for much afterward, he falls to his demise 
 leaving the other robot all alone, later, it is shown that there is a battery behind one 
 of the rocks after all and so teaches us to never leave a stone unturned as it might cost us 
 our life.
-# App demo and Assets
+# Film Link and Assets
 Due to the GitHub size restrictions,
-[here is the film uploaded on google drive](https://drive.google.com/file/d/1rrsCkTc1Lc8kQJNAC6ySDw7p_u21CEkr/view?usp=drive_link)
-Unfortunately, the sizes of the blender files are extremely large so it can't be uploaded.
+[here is the film uploaded on Google Drive](https://drive.google.com/file/d/1rrsCkTc1Lc8kQJNAC6ySDw7p_u21CEkr/view?usp=drive_link)
+Unfortunately, the sizes of the blender files are extremely large so they can't be uploaded.
